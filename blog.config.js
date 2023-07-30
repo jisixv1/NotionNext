@@ -184,12 +184,9 @@ const BLOG = {
           'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
-
-      Name: ‘骄傲的少年’,
-
-      Artist: ‘南征北战NZBZ’,
-
-      url: ‘https://music.163.com/#/song?id=408332757.mp3’,
+      name: '骄傲的少年',
+      artist: '南征北战NZBZ',
+      url: 'https://music.163.com/#/song?id=408332757.mp3',
 
     }
 
