@@ -90,6 +90,10 @@ const BLOG = {
 
   BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '', // 备案号 闽ICP备XXXXXXX
 
+  //   ********挂件组件相关********
+  // Chatbase
+  CHATBASE_ID: process.env.NEXT_PUBLIC_CHATBASE_ID || Lo7vekcKy-rzjXX-cV09W, // 是否显示chatbase机器人 https://www.chatbase.co/
+
   // PrismJs 代码相关
   PRISM_JS_AUTO_LOADER:
       'https://npm.elemecdn.com/prismjs@1.29.0/plugins/autoloader/prism-autoloader.min.js',
